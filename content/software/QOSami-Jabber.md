@@ -1,5 +1,5 @@
 ---
-title: XMPP Software
+title: QOSami-Jabber.md XMPP Software
 layout: packages
 aliases:
     - "/software/clients"
